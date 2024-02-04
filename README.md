@@ -1,5 +1,14 @@
+<h1 align="center"><b>Hola, soy Eladio Uribe </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="200%" height="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+
 <div id="header" align="center">
-  <h1 align="center"><b>Hola, soy Eladio Uribe </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  
   <h3 align="center">Desarrollador Frontend ReactJs con experiencia de aprendizaje autónomo de más de 1 año y experiencia en bases de datos SQL Oracle, busco mi primer empleo como desarrollador junior y estoy entusiasmado por aprender y aportar al equipo para crear soluciones innovadoras y de alta calidad.</h3>
 </div>
 
