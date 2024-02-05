@@ -1,4 +1,5 @@
-<h1 align="center"><b>Hola, soy Eladio Uribe </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Eladio Uribe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="center"><em>"La programación es eso que me inspira cada día a ser mejor"</em></em></h2>
 
 <td width="50%" align="center">
 
