@@ -25,9 +25,9 @@ Actualmente me encuentro en búsqueda de nuevas oportunidades como Developer Jr.
 
 <br>
 
-- :computer: Apasionado desarrollador frontend autodidacta
+- :computer: Apasionado Desarrollador Jr. autodidacta
 - 🎓 Tecnólogo electromecánico
--  :student: Actualmente estudiando Redux
+-  :student: Aprendizaje continuo
 -  👯 Busco colaborar en proyectos
 
 
