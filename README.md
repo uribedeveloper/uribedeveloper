@@ -10,7 +10,8 @@
 
 <div id="header" align="center">
   
-  <h3 align="center">Desarrollador Frontend ReactJs con experiencia de aprendizaje autónomo de más de 1 año y experiencia en bases de datos SQL Oracle, busco mi primer empleo como desarrollador junior y estoy entusiasmado por aprender y aportar al equipo para crear soluciones innovadoras y de alta calidad.</h3>
+  <h3 align="center">Siempre en búsqueda de enfocar la carrera profesional en el desarrollo, con más de un año de aprendizaje autónomo en el uso de herramientas en plataformas como Google Activate, FreeCodeCamp y Oracle Academy, conocimientos en lenguajes de programación, Java, JavaScript y SQL con familiarización en metodologías ágiles, Scrum y Kanban.
+Actualmente me encuentro en búsqueda de nuevas oportunidades como Developer Jr.</h3>
 </div>
 
 
