@@ -10,8 +10,7 @@
 
 <div id="header" align="center">
   
-  <h3 align="center">Siempre en búsqueda de enfocar la carrera profesional en el desarrollo, con más de un año de aprendizaje autónomo en el uso de herramientas en plataformas como Google Activate, FreeCodeCamp y Oracle Academy, conocimientos en lenguajes de programación, Java, JavaScript y SQL con familiarización en metodologías ágiles, Scrum y Kanban.
-Actualmente me encuentro en búsqueda de nuevas oportunidades como Developer Jr.</h3>
+  <h3 align="center">Desarrollador Full Stack con experiencia en Spring Boot y Angular, enfocado en la creación de soluciones escalables y de alto rendimiento. Tengo sólida experiencia trabajando con PL/SQL para el manejo de bases de datos, y utilizo herramientas como Postman, MySQL y Docker para asegurar la calidad y eficiencia del desarrollo. Además, aplico metodologías ágiles como Kanban para gestionar proyectos de manera eficiente y entregar valor continuamente.</h3>
 </div>
 
 
